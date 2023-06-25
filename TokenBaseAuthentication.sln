@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenBaseAuthentication", "TokenBaseAuthentication.csproj", "{75524948-59C6-4B6B-99A0-EB2F851B94DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75524948-59C6-4B6B-99A0-EB2F851B94DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75524948-59C6-4B6B-99A0-EB2F851B94DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75524948-59C6-4B6B-99A0-EB2F851B94DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75524948-59C6-4B6B-99A0-EB2F851B94DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9111041-5E0A-41BD-AE79-F0A98E21F847}
+	EndGlobalSection
+EndGlobal
